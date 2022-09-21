@@ -4,11 +4,11 @@
 # Display:  Dell U2412M (3x)
 
 xrandr \
-    --output DFP1 --auto --pos 3840x0 --rotate normal \
+    --output DFP1 --auto --pos 1920x0 --rotate normal \
     --output DFP2 --off \
     --output DFP3 --off \
     --output DFP4 --off \
     --output DFP5 --auto --pos 0x0 --rotate normal --primary \
     --output DFP6 --off \
-    --output DFP7 --auto --pos 1920x0 --rotate normal \
+    --output DFP7 --off \
     --output CRT1 --off
